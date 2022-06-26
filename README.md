@@ -8,7 +8,7 @@ This project was built with
 - CSS
 - JAVASCRIPT.
 
-#### The idea behing this game is to be able to roll dices by just clicking on the roll dice botton.
+#### The idea behing this game is to roll dices by just clicking on the roll dice botton.
 
 NOTE: During the game if a player rolls a one, he loses all the points he/she gained during the session.
 
